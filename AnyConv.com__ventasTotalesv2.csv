@@ -1,0 +1,461 @@
+Fecha,Vendedor,Región,Artículo,Categoría,Unidades,Ganancia
+1/1/2016,Steve Ashton,Norte,Medias Femeninas,Vestimenta,6,18
+1/1/2016,Trevor Snodgrass,Oeste,Chocolate,Comestibles,8,3.84
+1/1/2016,Sarah Bond,Sur,Gorras,Vestimenta,3,6.3
+1/1/2016,Desmond Delaney,Sur,Sánguche de Queso,Comestibles,9,14.4
+1/1/2016,Desmond Delaney,Este,Chocolate,Comestibles,14,6.72
+1/1/2016,Trevor Snodgrass,Este,Cerveza,Comestibles,15,6
+1/1/2016,Boris Stanford,Norte,Pepinillo,Comestibles,14,4.2
+1/1/2016,Steve Ashton,Oeste,Gorras,Vestimenta,2,4.2
+1/1/2016,Trevor Snodgrass,Este,Pan,Comestibles,12,4.8
+1/1/2016,Sarah Bond,Este,Caramelos,Comestibles,15,9
+1/1/2016,Trevor Snodgrass,Sur,Pan,Comestibles,6,2.4
+1/1/2016,Boris Stanford,Oeste,Calcetines,Vestimenta,7,15.75
+1/1/2016,Trevor Snodgrass,Sur,Shorts,Vestimenta,6,29.4
+1/2/2016,Steve Ashton,Este,Detergente,Hogar,7,17.36
+1/2/2016,Boris Stanford,Norte,Sánguche de Queso,Comestibles,8,12.8
+1/2/2016,Desmond Delaney,Oeste,Pepinillo,Comestibles,5,1.5
+1/2/2016,Dustin Gee,Norte,Sandalias,Vestimenta,7,73.5
+1/2/2016,Trevor Snodgrass,Este,Pan,Comestibles,5,2
+1/2/2016,Steve Ashton,Este,Cerveza,Comestibles,1,0.4
+1/2/2016,Trevor Snodgrass,Sur,Escoba,Hogar,11,40.15
+1/2/2016,Boris Stanford,Este,Calcetines,Vestimenta,12,27
+1/2/2016,Boris Stanford,Oeste,Bufanda,Vestimenta,14,38.5
+1/2/2016,Boris Stanford,Oeste,Sánguche de Queso,Comestibles,2,3.2
+1/2/2016,Sarah Bond,Norte,Bufanda,Vestimenta,4,11
+1/2/2016,Steve Ashton,Norte,Sánguche de Queso,Comestibles,10,16
+1/2/2016,Boris Stanford,Este,Pan,Comestibles,4,1.6
+1/2/2016,Steve Ashton,Sur,Bufanda,Vestimenta,12,33
+1/2/2016,Sarah Bond,Este,Escoba,Hogar,12,43.8
+1/3/2016,Desmond Delaney,Este,Medias Femeninas,Vestimenta,7,21
+1/3/2016,Boris Stanford,Sur,Shorts,Vestimenta,5,24.5
+1/3/2016,Dustin Gee,Oeste,Lejía,Hogar,11,34.1
+1/3/2016,Dustin Gee,Este,Escoba,Hogar,14,51.1
+1/3/2016,Desmond Delaney,Este,Trapo Piso,Hogar,7,3.92
+1/3/2016,Desmond Delaney,Este,Detergente,Hogar,6,14.88
+1/3/2016,Desmond Delaney,Oeste,Medias Femeninas,Vestimenta,6,18
+1/3/2016,Dustin Gee,Norte,Medias Femeninas,Vestimenta,6,18
+1/3/2016,Boris Stanford,Este,Shorts,Vestimenta,7,34.3
+1/4/2016,Trevor Snodgrass,Sur,Lejía,Hogar,7,21.7
+1/4/2016,Steve Ashton,Oeste,Gorras,Vestimenta,13,27.3
+1/4/2016,Dustin Gee,Sur,Sudadera,Vestimenta,3,18
+1/4/2016,Dustin Gee,Este,Bufanda,Vestimenta,12,33
+1/4/2016,Steve Ashton,Norte,Pan,Comestibles,15,6
+1/4/2016,Sarah Bond,Sur,Detergente,Hogar,11,27.28
+1/4/2016,Boris Stanford,Este,Sandalias,Vestimenta,9,94.5
+1/4/2016,Dustin Gee,Sur,Soda,Comestibles,3,1.92
+1/4/2016,Dustin Gee,Sur,Soda,Comestibles,14,8.96
+1/4/2016,Trevor Snodgrass,Norte,Escoba,Hogar,2,7.3
+1/4/2016,Dustin Gee,Sur,Caramelos,Comestibles,12,7.2
+1/4/2016,Sarah Bond,Este,Shorts,Vestimenta,2,9.8
+1/4/2016,Sarah Bond,Norte,Shorts,Vestimenta,12,58.8
+1/4/2016,Boris Stanford,Este,Shorts,Vestimenta,5,24.5
+1/4/2016,Dustin Gee,Este,Escoba,Hogar,13,47.45
+1/4/2016,Boris Stanford,Sur,Sandalias,Vestimenta,4,42
+1/4/2016,Boris Stanford,Norte,Calcetines,Vestimenta,6,13.5
+1/4/2016,Trevor Snodgrass,Este,Detergente,Hogar,14,34.72
+1/4/2016,Sarah Bond,Sur,Escoba,Hogar,5,18.25
+1/4/2016,Desmond Delaney,Sur,Pepinillo,Comestibles,6,1.8
+1/4/2016,Dustin Gee,Este,Gorras,Vestimenta,2,4.2
+1/4/2016,Sarah Bond,Este,Bufanda,Vestimenta,14,38.5
+1/4/2016,Desmond Delaney,Este,Pepinillo,Comestibles,8,2.4
+1/4/2016,Sarah Bond,Este,Escobillón,Hogar,3,2.55
+1/5/2016,Steve Ashton,Sur,Pepinillo,Comestibles,15,4.5
+1/5/2016,Sarah Bond,Norte,Cerveza,Comestibles,3,1.2
+1/5/2016,Trevor Snodgrass,Oeste,Cerveza,Comestibles,10,4
+1/5/2016,Boris Stanford,Sur,Pan,Comestibles,4,1.6
+1/5/2016,Sarah Bond,Norte,Pan,Comestibles,3,1.2
+1/5/2016,Boris Stanford,Este,Escobillón,Hogar,8,6.8
+1/5/2016,Sarah Bond,Este,Limpiavidrios,Hogar,5,4
+1/5/2016,Dustin Gee,Oeste,Trapo Piso,Hogar,12,6.72
+1/5/2016,Trevor Snodgrass,Norte,Calcetines,Vestimenta,4,9
+1/5/2016,Trevor Snodgrass,Este,Bufanda,Vestimenta,3,8.25
+1/5/2016,Boris Stanford,Sur,Shorts,Vestimenta,1,4.9
+1/5/2016,Steve Ashton,Norte,Shorts,Vestimenta,11,53.9
+1/5/2016,Desmond Delaney,Norte,Bombilla,Hogar,15,9
+1/5/2016,Dustin Gee,Oeste,Lejía,Hogar,9,27.9
+1/5/2016,Desmond Delaney,Sur,Lejía,Hogar,6,18.6
+1/5/2016,Desmond Delaney,Este,Pan,Comestibles,8,3.2
+1/5/2016,Desmond Delaney,Norte,Medias Femeninas,Vestimenta,13,39
+1/5/2016,Dustin Gee,Norte,Escoba,Hogar,5,18.25
+1/5/2016,Desmond Delaney,Oeste,Soda,Comestibles,5,3.2
+1/6/2016,Steve Ashton,Sur,Sánguche de Queso,Comestibles,13,20.8
+1/6/2016,Desmond Delaney,Sur,Sandalias,Vestimenta,15,157.5
+1/6/2016,Desmond Delaney,Sur,Sandalias,Vestimenta,15,157.5
+1/6/2016,Desmond Delaney,Norte,Sandalias,Vestimenta,10,105
+1/6/2016,Dustin Gee,Este,Chocolate,Comestibles,12,5.76
+1/6/2016,Sarah Bond,Norte,Gorras,Vestimenta,9,18.9
+1/6/2016,Steve Ashton,Sur,Bufanda,Vestimenta,1,2.75
+1/6/2016,Boris Stanford,Oeste,Sudadera,Vestimenta,2,12
+1/6/2016,Desmond Delaney,Sur,Escoba,Hogar,8,29.2
+1/6/2016,Sarah Bond,Sur,Cerveza,Comestibles,15,6
+1/6/2016,Boris Stanford,Norte,Calcetines,Vestimenta,11,24.75
+1/6/2016,Desmond Delaney,Este,Bombilla,Hogar,7,4.2
+1/6/2016,Dustin Gee,Oeste,Medias Femeninas,Vestimenta,15,45
+1/6/2016,Boris Stanford,Norte,Chocolate,Comestibles,2,0.96
+1/6/2016,Boris Stanford,Oeste,Pan,Comestibles,8,3.2
+1/6/2016,Trevor Snodgrass,Norte,Limpiavidrios,Hogar,2,1.6
+1/6/2016,Desmond Delaney,Norte,Sudadera,Vestimenta,1,6
+1/6/2016,Steve Ashton,Sur,Sandalias,Vestimenta,4,42
+1/6/2016,Trevor Snodgrass,Este,Pan,Comestibles,2,0.8
+1/6/2016,Dustin Gee,Sur,Limpiavidrios,Hogar,14,11.2
+1/7/2016,Sarah Bond,Norte,Detergente,Hogar,6,14.88
+1/7/2016,Steve Ashton,Oeste,Escoba,Hogar,13,47.45
+1/7/2016,Boris Stanford,Sur,Escoba,Hogar,5,18.25
+1/7/2016,Dustin Gee,Sur,Shorts,Vestimenta,9,44.1
+1/7/2016,Sarah Bond,Este,Calcetines,Vestimenta,13,29.25
+1/7/2016,Dustin Gee,Sur,Chocolate,Comestibles,9,4.32
+1/7/2016,Sarah Bond,Oeste,Calcetines,Vestimenta,8,18
+1/7/2016,Steve Ashton,Norte,Escobillón,Hogar,14,11.9
+1/7/2016,Sarah Bond,Norte,Pan,Comestibles,4,1.6
+1/7/2016,Trevor Snodgrass,Norte,Pan,Comestibles,12,4.8
+1/7/2016,Steve Ashton,Norte,Bombilla,Hogar,3,1.8
+1/7/2016,Dustin Gee,Norte,Detergente,Hogar,4,9.92
+1/7/2016,Desmond Delaney,Norte,Pan,Comestibles,6,2.4
+1/8/2016,Desmond Delaney,Este,Caramelos,Comestibles,3,1.8
+1/8/2016,Sarah Bond,Oeste,Trapo Piso,Hogar,9,5.04
+1/8/2016,Steve Ashton,Este,Chocolate,Comestibles,10,4.8
+1/8/2016,Desmond Delaney,Sur,Bufanda,Vestimenta,10,27.5
+1/8/2016,Trevor Snodgrass,Oeste,Pepinillo,Comestibles,5,1.5
+1/8/2016,Dustin Gee,Norte,Bufanda,Vestimenta,15,41.25
+1/8/2016,Trevor Snodgrass,Este,Bombilla,Hogar,5,3
+1/8/2016,Boris Stanford,Sur,Calcetines,Vestimenta,6,13.5
+1/8/2016,Steve Ashton,Oeste,Pan,Comestibles,12,4.8
+1/8/2016,Desmond Delaney,Sur,Soda,Comestibles,5,3.2
+1/8/2016,Sarah Bond,Sur,Bufanda,Vestimenta,4,11
+1/8/2016,Sarah Bond,Sur,Sandalias,Vestimenta,15,157.5
+1/8/2016,Steve Ashton,Norte,Calcetines,Vestimenta,8,18
+1/8/2016,Sarah Bond,Norte,Calcetines,Vestimenta,3,6.75
+1/8/2016,Sarah Bond,Norte,Sánguche de Queso,Comestibles,14,22.4
+1/8/2016,Desmond Delaney,Este,Detergente,Hogar,15,37.2
+1/8/2016,Desmond Delaney,Norte,Medias Femeninas,Vestimenta,12,36
+1/8/2016,Boris Stanford,Este,Medias Femeninas,Vestimenta,2,6
+1/9/2016,Dustin Gee,Oeste,Detergente,Hogar,8,19.84
+1/9/2016,Desmond Delaney,Este,Escoba,Hogar,6,21.9
+1/9/2016,Steve Ashton,Este,Soda,Comestibles,7,4.48
+1/9/2016,Sarah Bond,Oeste,Pepinillo,Comestibles,2,0.6
+1/9/2016,Sarah Bond,Norte,Bombilla,Hogar,6,3.6
+1/9/2016,Sarah Bond,Sur,Soda,Comestibles,11,7.04
+1/9/2016,Sarah Bond,Este,Bufanda,Vestimenta,3,8.25
+1/9/2016,Boris Stanford,Sur,Sánguche de Queso,Comestibles,10,16
+1/9/2016,Desmond Delaney,Sur,Medias Femeninas,Vestimenta,12,36
+1/9/2016,Steve Ashton,Este,Calcetines,Vestimenta,15,33.75
+1/9/2016,Sarah Bond,Este,Limpiavidrios,Hogar,13,10.4
+1/10/2016,Trevor Snodgrass,Oeste,Detergente,Hogar,10,24.8
+1/10/2016,Trevor Snodgrass,Oeste,Sánguche de Queso,Comestibles,5,8
+1/10/2016,Steve Ashton,Sur,Chocolate,Comestibles,12,5.76
+1/10/2016,Trevor Snodgrass,Oeste,Escoba,Hogar,12,43.8
+1/10/2016,Sarah Bond,Norte,Escobillón,Hogar,1,0.85
+1/10/2016,Sarah Bond,Este,Medias Femeninas,Vestimenta,4,12
+1/10/2016,Trevor Snodgrass,Sur,Limpiavidrios,Hogar,9,7.2
+1/10/2016,Trevor Snodgrass,Este,Escobillón,Hogar,15,12.75
+1/10/2016,Dustin Gee,Oeste,Escoba,Hogar,7,25.55
+1/10/2016,Sarah Bond,Este,Limpiavidrios,Hogar,15,12
+1/10/2016,Desmond Delaney,Este,Lejía,Hogar,8,24.8
+1/10/2016,Steve Ashton,Sur,Lejía,Hogar,10,31
+1/10/2016,Desmond Delaney,Norte,Sánguche de Queso,Comestibles,7,11.2
+1/10/2016,Boris Stanford,Oeste,Bufanda,Vestimenta,14,38.5
+1/10/2016,Trevor Snodgrass,Norte,Gorras,Vestimenta,7,14.7
+1/10/2016,Steve Ashton,Oeste,Escobillón,Hogar,15,12.75
+1/11/2016,Trevor Snodgrass,Oeste,Sudadera,Vestimenta,13,78
+1/11/2016,Steve Ashton,Norte,Gorras,Vestimenta,2,4.2
+1/11/2016,Desmond Delaney,Norte,Limpiavidrios,Hogar,5,4
+1/11/2016,Trevor Snodgrass,Oeste,Limpiavidrios,Hogar,10,8
+1/11/2016,Boris Stanford,Este,Medias Femeninas,Vestimenta,5,15
+1/11/2016,Dustin Gee,Sur,Soda,Comestibles,4,2.56
+1/11/2016,Steve Ashton,Este,Chocolate,Comestibles,10,4.8
+1/11/2016,Steve Ashton,Sur,Sánguche de Queso,Comestibles,6,9.6
+1/11/2016,Steve Ashton,Sur,Detergente,Hogar,6,14.88
+1/11/2016,Desmond Delaney,Sur,Escobillón,Hogar,2,1.7
+1/11/2016,Steve Ashton,Oeste,Sudadera,Vestimenta,10,60
+1/11/2016,Trevor Snodgrass,Este,Pan,Comestibles,7,2.8
+1/11/2016,Sarah Bond,Este,Gorras,Vestimenta,9,18.9
+1/11/2016,Steve Ashton,Oeste,Pan,Comestibles,10,4
+1/11/2016,Desmond Delaney,Este,Lejía,Hogar,3,9.3
+1/11/2016,Boris Stanford,Sur,Caramelos,Comestibles,5,3
+1/11/2016,Desmond Delaney,Sur,Lejía,Hogar,1,3.1
+1/11/2016,Desmond Delaney,Norte,Limpiavidrios,Hogar,13,10.4
+1/11/2016,Trevor Snodgrass,Sur,Chocolate,Comestibles,9,4.32
+1/12/2016,Desmond Delaney,Oeste,Medias Femeninas,Vestimenta,7,21
+1/12/2016,Dustin Gee,Oeste,Escobillón,Hogar,8,6.8
+1/12/2016,Steve Ashton,Sur,Sánguche de Queso,Comestibles,9,14.4
+1/12/2016,Trevor Snodgrass,Sur,Pepinillo,Comestibles,12,3.6
+1/12/2016,Dustin Gee,Sur,Escobillón,Hogar,9,7.65
+1/12/2016,Sarah Bond,Norte,Escobillón,Hogar,2,1.7
+1/12/2016,Steve Ashton,Sur,Escoba,Hogar,7,25.55
+1/12/2016,Dustin Gee,Sur,Limpiavidrios,Hogar,5,4
+1/12/2016,Steve Ashton,Norte,Bombilla,Hogar,13,7.8
+1/12/2016,Sarah Bond,Este,Gorras,Vestimenta,11,23.1
+1/12/2016,Dustin Gee,Sur,Gorras,Vestimenta,13,27.3
+1/13/2016,Sarah Bond,Oeste,Calcetines,Vestimenta,1,2.25
+1/13/2016,Desmond Delaney,Oeste,Sánguche de Queso,Comestibles,12,19.2
+1/13/2016,Dustin Gee,Sur,Bufanda,Vestimenta,4,11
+1/13/2016,Dustin Gee,Oeste,Pepinillo,Comestibles,14,4.2
+1/13/2016,Boris Stanford,Norte,Escoba,Hogar,8,29.2
+1/13/2016,Steve Ashton,Este,Detergente,Hogar,9,22.32
+1/13/2016,Steve Ashton,Oeste,Pan,Comestibles,10,4
+1/13/2016,Steve Ashton,Sur,Escoba,Hogar,1,3.65
+1/13/2016,Dustin Gee,Norte,Soda,Comestibles,13,8.32
+1/13/2016,Sarah Bond,Oeste,Detergente,Hogar,5,12.4
+1/13/2016,Boris Stanford,Sur,Escoba,Hogar,1,3.65
+1/13/2016,Sarah Bond,Norte,Cerveza,Comestibles,11,4.4
+1/14/2016,Desmond Delaney,Oeste,Calcetines,Vestimenta,6,13.5
+1/14/2016,Desmond Delaney,Norte,Gorras,Vestimenta,5,10.5
+1/14/2016,Sarah Bond,Sur,Pan,Comestibles,6,2.4
+1/14/2016,Trevor Snodgrass,Este,Sudadera,Vestimenta,8,48
+1/14/2016,Trevor Snodgrass,Sur,Trapo Piso,Hogar,5,2.8
+1/14/2016,Dustin Gee,Este,Medias Femeninas,Vestimenta,14,42
+1/14/2016,Trevor Snodgrass,Oeste,Lejía,Hogar,15,46.5
+1/14/2016,Desmond Delaney,Este,Trapo Piso,Hogar,8,4.48
+1/14/2016,Desmond Delaney,Este,Bombilla,Hogar,10,6
+1/14/2016,Trevor Snodgrass,Este,Sánguche de Queso,Comestibles,15,24
+1/14/2016,Steve Ashton,Oeste,Cerveza,Comestibles,12,4.8
+1/14/2016,Sarah Bond,Este,Escoba,Hogar,5,18.25
+1/14/2016,Trevor Snodgrass,Oeste,Sánguche de Queso,Comestibles,2,3.2
+1/14/2016,Sarah Bond,Este,Shorts,Vestimenta,9,44.1
+1/14/2016,Boris Stanford,Este,Bombilla,Hogar,9,5.4
+1/15/2016,Sarah Bond,Oeste,Chocolate,Comestibles,6,2.88
+1/15/2016,Sarah Bond,Sur,Pan,Comestibles,7,2.8
+1/15/2016,Sarah Bond,Sur,Sudadera,Vestimenta,1,6
+1/15/2016,Dustin Gee,Norte,Sudadera,Vestimenta,14,84
+1/15/2016,Steve Ashton,Oeste,Calcetines,Vestimenta,10,22.5
+1/15/2016,Boris Stanford,Sur,Medias Femeninas,Vestimenta,12,36
+1/15/2016,Trevor Snodgrass,Este,Detergente,Hogar,1,2.48
+1/15/2016,Sarah Bond,Norte,Chocolate,Comestibles,12,5.76
+1/15/2016,Desmond Delaney,Este,Escobillón,Hogar,14,11.9
+1/15/2016,Boris Stanford,Norte,Trapo Piso,Hogar,4,2.24
+1/15/2016,Trevor Snodgrass,Este,Sudadera,Vestimenta,12,72
+1/15/2016,Dustin Gee,Sur,Escobillón,Hogar,7,5.95
+1/15/2016,Boris Stanford,Oeste,Sánguche de Queso,Comestibles,2,3.2
+1/15/2016,Sarah Bond,Este,Detergente,Hogar,2,4.96
+1/15/2016,Trevor Snodgrass,Este,Chocolate,Comestibles,9,4.32
+1/15/2016,Sarah Bond,Sur,Chocolate,Comestibles,4,1.92
+1/15/2016,Trevor Snodgrass,Este,Gorras,Vestimenta,4,8.4
+1/15/2016,Boris Stanford,Este,Bombilla,Hogar,6,3.6
+1/16/2016,Steve Ashton,Sur,Detergente,Hogar,3,7.44
+1/16/2016,Steve Ashton,Oeste,Calcetines,Vestimenta,13,29.25
+1/16/2016,Steve Ashton,Norte,Chocolate,Comestibles,7,3.36
+1/16/2016,Desmond Delaney,Este,Chocolate,Comestibles,8,3.84
+1/16/2016,Trevor Snodgrass,Oeste,Calcetines,Vestimenta,1,2.25
+1/16/2016,Trevor Snodgrass,Sur,Shorts,Vestimenta,2,9.8
+1/16/2016,Trevor Snodgrass,Este,Detergente,Hogar,2,4.96
+1/16/2016,Desmond Delaney,Este,Bombilla,Hogar,4,2.4
+1/16/2016,Boris Stanford,Oeste,Bufanda,Vestimenta,5,13.75
+1/16/2016,Sarah Bond,Norte,Detergente,Hogar,9,22.32
+1/16/2016,Steve Ashton,Este,Escoba,Hogar,5,18.25
+1/16/2016,Dustin Gee,Este,Pepinillo,Comestibles,15,4.5
+1/16/2016,Dustin Gee,Este,Shorts,Vestimenta,5,24.5
+1/16/2016,Steve Ashton,Sur,Sudadera,Vestimenta,4,24
+1/16/2016,Steve Ashton,Sur,Trapo Piso,Hogar,1,0.56
+1/16/2016,Trevor Snodgrass,Oeste,Cerveza,Comestibles,1,0.4
+1/16/2016,Desmond Delaney,Norte,Chocolate,Comestibles,4,1.92
+1/16/2016,Boris Stanford,Norte,Caramelos,Comestibles,7,4.2
+1/17/2016,Trevor Snodgrass,Norte,Lejía,Hogar,10,31
+1/17/2016,Sarah Bond,Sur,Soda,Comestibles,10,6.4
+1/17/2016,Steve Ashton,Norte,Caramelos,Comestibles,2,1.2
+1/17/2016,Desmond Delaney,Sur,Cerveza,Comestibles,4,1.6
+1/17/2016,Sarah Bond,Norte,Medias Femeninas,Vestimenta,12,36
+1/17/2016,Desmond Delaney,Este,Sánguche de Queso,Comestibles,3,4.8
+1/17/2016,Desmond Delaney,Este,Bufanda,Vestimenta,10,27.5
+1/17/2016,Desmond Delaney,Este,Caramelos,Comestibles,10,6
+1/18/2016,Boris Stanford,Sur,Pepinillo,Comestibles,5,1.5
+1/18/2016,Desmond Delaney,Norte,Soda,Comestibles,6,3.84
+1/18/2016,Desmond Delaney,Este,Escoba,Hogar,10,36.5
+1/18/2016,Sarah Bond,Oeste,Trapo Piso,Hogar,13,7.28
+1/18/2016,Dustin Gee,Norte,Sudadera,Vestimenta,4,24
+1/18/2016,Desmond Delaney,Norte,Detergente,Hogar,14,34.72
+1/18/2016,Steve Ashton,Norte,Bufanda,Vestimenta,11,30.25
+1/18/2016,Steve Ashton,Oeste,Soda,Comestibles,4,2.56
+1/18/2016,Sarah Bond,Sur,Escobillón,Hogar,6,5.1
+1/18/2016,Sarah Bond,Sur,Pan,Comestibles,12,4.8
+1/18/2016,Boris Stanford,Sur,Escobillón,Hogar,9,7.65
+1/18/2016,Sarah Bond,Norte,Chocolate,Comestibles,5,2.4
+1/19/2016,Steve Ashton,Sur,Chocolate,Comestibles,8,3.84
+1/19/2016,Desmond Delaney,Sur,Lejía,Hogar,1,3.1
+1/19/2016,Sarah Bond,Norte,Escoba,Hogar,14,51.1
+1/19/2016,Desmond Delaney,Este,Escobillón,Hogar,2,1.7
+1/19/2016,Trevor Snodgrass,Oeste,Escoba,Hogar,5,18.25
+1/19/2016,Boris Stanford,Sur,Escobillón,Hogar,14,11.9
+1/19/2016,Sarah Bond,Sur,Pan,Comestibles,12,4.8
+1/19/2016,Dustin Gee,Este,Sudadera,Vestimenta,7,42
+1/19/2016,Steve Ashton,Este,Sánguche de Queso,Comestibles,3,4.8
+1/19/2016,Boris Stanford,Oeste,Lejía,Hogar,12,37.2
+1/19/2016,Steve Ashton,Oeste,Detergente,Hogar,12,29.76
+1/19/2016,Trevor Snodgrass,Norte,Sánguche de Queso,Comestibles,12,19.2
+1/19/2016,Sarah Bond,Este,Chocolate,Comestibles,8,3.84
+1/19/2016,Steve Ashton,Este,Pepinillo,Comestibles,12,3.6
+1/19/2016,Desmond Delaney,Sur,Cerveza,Comestibles,3,1.2
+1/19/2016,Trevor Snodgrass,Oeste,Caramelos,Comestibles,7,4.2
+1/19/2016,Sarah Bond,Oeste,Soda,Comestibles,13,8.32
+1/19/2016,Desmond Delaney,Este,Soda,Comestibles,3,1.92
+1/19/2016,Sarah Bond,Este,Sudadera,Vestimenta,1,6
+1/19/2016,Dustin Gee,Sur,Limpiavidrios,Hogar,2,1.6
+1/20/2016,Boris Stanford,Oeste,Shorts,Vestimenta,11,53.9
+1/20/2016,Sarah Bond,Norte,Lejía,Hogar,8,24.8
+1/20/2016,Steve Ashton,Oeste,Chocolate,Comestibles,12,5.76
+1/20/2016,Sarah Bond,Sur,Pepinillo,Comestibles,2,0.6
+1/20/2016,Steve Ashton,Norte,Caramelos,Comestibles,10,6
+1/20/2016,Steve Ashton,Oeste,Soda,Comestibles,9,5.76
+1/20/2016,Boris Stanford,Oeste,Pan,Comestibles,6,2.4
+1/20/2016,Boris Stanford,Sur,Pepinillo,Comestibles,9,2.7
+1/20/2016,Boris Stanford,Oeste,Sandalias,Vestimenta,9,94.5
+1/20/2016,Steve Ashton,Norte,Caramelos,Comestibles,3,1.8
+1/20/2016,Dustin Gee,Norte,Limpiavidrios,Hogar,3,2.4
+1/20/2016,Sarah Bond,Norte,Pepinillo,Comestibles,11,3.3
+1/20/2016,Sarah Bond,Norte,Caramelos,Comestibles,15,9
+1/20/2016,Desmond Delaney,Sur,Escoba,Hogar,13,47.45
+1/21/2016,Trevor Snodgrass,Este,Limpiavidrios,Hogar,13,10.4
+1/21/2016,Boris Stanford,Sur,Lejía,Hogar,15,46.5
+1/21/2016,Steve Ashton,Norte,Medias Femeninas,Vestimenta,9,27
+1/21/2016,Dustin Gee,Sur,Limpiavidrios,Hogar,10,8
+1/21/2016,Boris Stanford,Sur,Sudadera,Vestimenta,4,24
+1/21/2016,Steve Ashton,Norte,Sudadera,Vestimenta,8,48
+1/21/2016,Steve Ashton,Norte,Chocolate,Comestibles,2,0.96
+1/21/2016,Trevor Snodgrass,Oeste,Pepinillo,Comestibles,2,0.6
+1/21/2016,Desmond Delaney,Sur,Escoba,Hogar,6,21.9
+1/21/2016,Trevor Snodgrass,Oeste,Bombilla,Hogar,14,8.4
+1/21/2016,Dustin Gee,Norte,Bufanda,Vestimenta,7,19.25
+1/21/2016,Steve Ashton,Norte,Shorts,Vestimenta,5,24.5
+1/21/2016,Boris Stanford,Sur,Escobillón,Hogar,12,10.2
+1/21/2016,Sarah Bond,Norte,Calcetines,Vestimenta,5,11.25
+1/22/2016,Dustin Gee,Este,Gorras,Vestimenta,11,23.1
+1/22/2016,Boris Stanford,Este,Cerveza,Comestibles,8,3.2
+1/22/2016,Dustin Gee,Oeste,Lejía,Hogar,11,34.1
+1/22/2016,Steve Ashton,Sur,Calcetines,Vestimenta,10,22.5
+1/22/2016,Dustin Gee,Sur,Escoba,Hogar,8,29.2
+1/22/2016,Dustin Gee,Este,Soda,Comestibles,1,0.64
+1/22/2016,Boris Stanford,Sur,Sudadera,Vestimenta,5,30
+1/22/2016,Trevor Snodgrass,Sur,Caramelos,Comestibles,7,4.2
+1/22/2016,Desmond Delaney,Oeste,Escobillón,Hogar,7,5.95
+1/22/2016,Trevor Snodgrass,Oeste,Bombilla,Hogar,14,8.4
+1/22/2016,Dustin Gee,Sur,Pepinillo,Comestibles,14,4.2
+1/22/2016,Sarah Bond,Sur,Bombilla,Hogar,3,1.8
+1/22/2016,Sarah Bond,Oeste,Sandalias,Vestimenta,2,21
+1/23/2016,Steve Ashton,Sur,Medias Femeninas,Vestimenta,3,9
+1/23/2016,Boris Stanford,Oeste,Cerveza,Comestibles,15,6
+1/23/2016,Trevor Snodgrass,Norte,Soda,Comestibles,5,3.2
+1/23/2016,Dustin Gee,Oeste,Escobillón,Hogar,12,10.2
+1/23/2016,Steve Ashton,Este,Calcetines,Vestimenta,9,20.25
+1/23/2016,Sarah Bond,Este,Pepinillo,Comestibles,6,1.8
+1/23/2016,Steve Ashton,Sur,Cerveza,Comestibles,14,5.6
+1/23/2016,Desmond Delaney,Este,Soda,Comestibles,4,2.56
+1/23/2016,Sarah Bond,Este,Detergente,Hogar,8,19.84
+1/23/2016,Desmond Delaney,Este,Soda,Comestibles,11,7.04
+1/23/2016,Boris Stanford,Este,Escobillón,Hogar,8,6.8
+1/24/2016,Steve Ashton,Este,Pepinillo,Comestibles,9,2.7
+1/24/2016,Boris Stanford,Oeste,Calcetines,Vestimenta,8,18
+1/24/2016,Desmond Delaney,Norte,Bufanda,Vestimenta,7,19.25
+1/24/2016,Dustin Gee,Este,Sudadera,Vestimenta,15,90
+1/24/2016,Desmond Delaney,Sur,Sandalias,Vestimenta,3,31.5
+1/24/2016,Trevor Snodgrass,Oeste,Escoba,Hogar,10,36.5
+1/24/2016,Trevor Snodgrass,Este,Lejía,Hogar,8,24.8
+1/24/2016,Trevor Snodgrass,Sur,Medias Femeninas,Vestimenta,9,27
+1/24/2016,Sarah Bond,Este,Shorts,Vestimenta,6,29.4
+1/25/2016,Desmond Delaney,Sur,Shorts,Vestimenta,1,4.9
+1/25/2016,Dustin Gee,Este,Pepinillo,Comestibles,11,3.3
+1/25/2016,Desmond Delaney,Norte,Bombilla,Hogar,2,1.2
+1/25/2016,Trevor Snodgrass,Sur,Escoba,Hogar,6,21.9
+1/25/2016,Boris Stanford,Oeste,Bufanda,Vestimenta,13,35.75
+1/25/2016,Trevor Snodgrass,Este,Escoba,Hogar,1,3.65
+1/25/2016,Steve Ashton,Este,Sudadera,Vestimenta,3,18
+1/25/2016,Dustin Gee,Oeste,Lejía,Hogar,2,6.2
+1/25/2016,Steve Ashton,Norte,Gorras,Vestimenta,7,14.7
+1/25/2016,Steve Ashton,Este,Escobillón,Hogar,8,6.8
+1/25/2016,Dustin Gee,Oeste,Sandalias,Vestimenta,12,126
+1/25/2016,Steve Ashton,Sur,Sudadera,Vestimenta,8,48
+1/25/2016,Steve Ashton,Sur,Sánguche de Queso,Comestibles,13,20.8
+1/26/2016,Sarah Bond,Sur,Chocolate,Comestibles,13,6.24
+1/26/2016,Steve Ashton,Oeste,Bufanda,Vestimenta,1,2.75
+1/26/2016,Desmond Delaney,Norte,Cerveza,Comestibles,11,4.4
+1/26/2016,Boris Stanford,Norte,Gorras,Vestimenta,7,14.7
+1/26/2016,Steve Ashton,Norte,Lejía,Hogar,9,27.9
+1/26/2016,Boris Stanford,Sur,Shorts,Vestimenta,10,49
+1/26/2016,Sarah Bond,Oeste,Trapo Piso,Hogar,12,6.72
+1/26/2016,Desmond Delaney,Este,Lejía,Hogar,15,46.5
+1/26/2016,Boris Stanford,Sur,Sudadera,Vestimenta,9,54
+1/26/2016,Sarah Bond,Este,Cerveza,Comestibles,8,3.2
+1/26/2016,Trevor Snodgrass,Sur,Escoba,Hogar,6,21.9
+1/26/2016,Boris Stanford,Norte,Bufanda,Vestimenta,5,13.75
+1/26/2016,Trevor Snodgrass,Oeste,Chocolate,Comestibles,6,2.88
+1/26/2016,Trevor Snodgrass,Norte,Chocolate,Comestibles,14,6.72
+1/27/2016,Sarah Bond,Este,Cerveza,Comestibles,5,2
+1/27/2016,Boris Stanford,Este,Shorts,Vestimenta,6,29.4
+1/27/2016,Trevor Snodgrass,Sur,Escoba,Hogar,8,29.2
+1/27/2016,Steve Ashton,Este,Pepinillo,Comestibles,4,1.2
+1/27/2016,Sarah Bond,Sur,Bombilla,Hogar,12,7.2
+1/27/2016,Desmond Delaney,Este,Bufanda,Vestimenta,9,24.75
+1/27/2016,Boris Stanford,Este,Escoba,Hogar,2,7.3
+1/27/2016,Sarah Bond,Este,Limpiavidrios,Hogar,5,4
+1/27/2016,Boris Stanford,Este,Pan,Comestibles,8,3.2
+1/27/2016,Steve Ashton,Oeste,Escobillón,Hogar,13,11.05
+1/27/2016,Sarah Bond,Este,Trapo Piso,Hogar,9,5.04
+1/27/2016,Boris Stanford,Sur,Limpiavidrios,Hogar,2,1.6
+1/27/2016,Desmond Delaney,Norte,Lejía,Hogar,7,21.7
+1/27/2016,Boris Stanford,Oeste,Trapo Piso,Hogar,12,6.72
+1/27/2016,Desmond Delaney,Oeste,Pan,Comestibles,2,0.8
+1/27/2016,Steve Ashton,Norte,Gorras,Vestimenta,14,29.4
+1/27/2016,Desmond Delaney,Este,Detergente,Hogar,3,7.44
+1/27/2016,Trevor Snodgrass,Norte,Gorras,Vestimenta,3,6.3
+1/27/2016,Desmond Delaney,Oeste,Bufanda,Vestimenta,11,30.25
+1/27/2016,Dustin Gee,Oeste,Medias Femeninas,Vestimenta,14,42
+1/27/2016,Dustin Gee,Este,Sandalias,Vestimenta,9,94.5
+1/27/2016,Trevor Snodgrass,Sur,Bufanda,Vestimenta,12,33
+1/28/2016,Dustin Gee,Este,Lejía,Hogar,9,27.9
+1/28/2016,Dustin Gee,Oeste,Caramelos,Comestibles,11,6.6
+1/28/2016,Dustin Gee,Oeste,Bufanda,Vestimenta,4,11
+1/28/2016,Trevor Snodgrass,Oeste,Pan,Comestibles,5,2
+1/28/2016,Trevor Snodgrass,Oeste,Cerveza,Comestibles,7,2.8
+1/28/2016,Trevor Snodgrass,Este,Sudadera,Vestimenta,5,30
+1/28/2016,Boris Stanford,Oeste,Limpiavidrios,Hogar,5,4
+1/28/2016,Dustin Gee,Oeste,Shorts,Vestimenta,1,4.9
+1/28/2016,Sarah Bond,Este,Sánguche de Queso,Comestibles,7,11.2
+1/28/2016,Steve Ashton,Sur,Pepinillo,Comestibles,4,1.2
+1/28/2016,Steve Ashton,Este,Sudadera,Vestimenta,1,6
+1/28/2016,Steve Ashton,Oeste,Sandalias,Vestimenta,9,94.5
+1/28/2016,Steve Ashton,Oeste,Bufanda,Vestimenta,4,11
+1/28/2016,Trevor Snodgrass,Sur,Gorras,Vestimenta,8,16.8
+1/28/2016,Boris Stanford,Este,Bufanda,Vestimenta,9,24.75
+1/28/2016,Sarah Bond,Este,Sánguche de Queso,Comestibles,5,8
+1/29/2016,Sarah Bond,Este,Trapo Piso,Hogar,4,2.24
+1/29/2016,Sarah Bond,Norte,Caramelos,Comestibles,9,5.4
+1/29/2016,Trevor Snodgrass,Norte,Sandalias,Vestimenta,11,115.5
+1/29/2016,Sarah Bond,Este,Gorras,Vestimenta,13,27.3
+1/29/2016,Boris Stanford,Este,Sánguche de Queso,Comestibles,6,9.6
+1/29/2016,Steve Ashton,Sur,Detergente,Hogar,9,22.32
+1/29/2016,Desmond Delaney,Sur,Sandalias,Vestimenta,2,21
+1/29/2016,Steve Ashton,Oeste,Caramelos,Comestibles,4,2.4
+1/29/2016,Boris Stanford,Este,Escobillón,Hogar,11,9.35
+1/29/2016,Sarah Bond,Este,Gorras,Vestimenta,7,14.7
+1/29/2016,Sarah Bond,Oeste,Detergente,Hogar,3,7.44
+1/29/2016,Steve Ashton,Norte,Sánguche de Queso,Comestibles,15,24
+1/30/2016,Dustin Gee,Oeste,Lejía,Hogar,11,34.1
+1/30/2016,Steve Ashton,Oeste,Bombilla,Hogar,10,6
+1/30/2016,Dustin Gee,Este,Medias Femeninas,Vestimenta,7,21
+1/30/2016,Dustin Gee,Sur,Lejía,Hogar,12,37.2
+1/30/2016,Boris Stanford,Norte,Soda,Comestibles,6,3.84
+1/30/2016,Trevor Snodgrass,Norte,Calcetines,Vestimenta,7,15.75
+1/30/2016,Dustin Gee,Este,Pepinillo,Comestibles,13,3.9
+1/30/2016,Trevor Snodgrass,Oeste,Sandalias,Vestimenta,10,105
+1/30/2016,Trevor Snodgrass,Este,Calcetines,Vestimenta,10,22.5
+1/30/2016,Dustin Gee,Este,Trapo Piso,Hogar,12,6.72
+1/30/2016,Desmond Delaney,Norte,Caramelos,Comestibles,14,8.4
+1/30/2016,Trevor Snodgrass,Este,Gorras,Vestimenta,6,12.6
+1/30/2016,Dustin Gee,Norte,Pan,Comestibles,14,5.6
+1/31/2016,Trevor Snodgrass,Este,Sandalias,Vestimenta,6,63
+1/31/2016,Sarah Bond,Sur,Calcetines,Vestimenta,7,15.75
+1/31/2016,Dustin Gee,Oeste,Sánguche de Queso,Comestibles,12,19.2
+1/31/2016,Desmond Delaney,Sur,Escobillón,Hogar,9,7.65
+1/31/2016,Trevor Snodgrass,Oeste,Sudadera,Vestimenta,2,12
+1/31/2016,Desmond Delaney,Este,Bombilla,Hogar,8,4.8
+1/31/2016,Steve Ashton,Oeste,Lejía,Hogar,15,46.5
+1/31/2016,Boris Stanford,Este,Sudadera,Vestimenta,6,36
+1/31/2016,Boris Stanford,Este,Chocolate,Comestibles,3,1.44
+1/31/2016,Steve Ashton,Norte,Detergente,Hogar,14,34.72
+1/31/2016,Dustin Gee,Oeste,Caramelos,Comestibles,6,3.6
+1/31/2016,Sarah Bond,Norte,Bombilla,Hogar,4,2.4
+1/31/2016,Dustin Gee,Oeste,Limpiavidrios,Hogar,13,10.4
+1/31/2016,Sarah Bond,Sur,Bufanda,Vestimenta,6,16.5
+1/31/2016,Dustin Gee,Este,Sandalias,Vestimenta,11,115.5
+1/31/2016,Dustin Gee,Este,Sánguche de Queso,Comestibles,4,6.4
+1/31/2016,Dustin Gee,Norte,Escobillón,Hogar,8,6.8
+1/31/2016,Trevor Snodgrass,Sur,Pepinillo,Comestibles,7,2.1
